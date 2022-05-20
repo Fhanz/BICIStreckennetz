@@ -1,14 +1,16 @@
+from random import randint
+
 loop = True
 ciclovias = []
 calles = []
 dias = 0
 
-
-# wenas que tal como estamos
 # indices
 
 while loop:
-    nueva_ciclovia = input("\nIngrese tipo de ciclovía:\n")
+    seed = randint(1,5)
+    for i in range(seed):
+        
     if nueva_ciclovia != "x" and nueva_ciclovia != "X":
         ciclovias.append(nueva_ciclovia)
     else:
@@ -117,16 +119,3 @@ for n in range(len(calles)):
                 loop = False
             else:
                 print("La respuesta ingresada no es válida, por favor vuelva a intentar\n")
-
-# prints varios
-print(f"largo lista ciclovias: {len(ciclovias)}")
-print(f"largo lista calles: {len(calles)}")
-print(f"rango lista ciclovias: {range(len(ciclovias))}")
-print(f"rango lista calles: {range(len(calles))}")
-
-for i in range(len(ciclovias)):
-    print(f"ciclovia numero {i}")
-
-for i in range(len(calles)):
-    print(f"calle numero {i}")
-

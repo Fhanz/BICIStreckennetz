@@ -7,7 +7,7 @@ import random
 
 random.seed(10)
 
-t = 10
+t = 500
 n = 6
 c = 3
 
@@ -44,7 +44,7 @@ U = [1, 2, 3]
 J = [2, 3, 4]
 
 # Largo de la calle n en metros
-L = [0.1, 0.2, 0.3, 0.4, 0.5, 0.3]
+L = [100, 200, 300, 400, 500, 300]
 
 # Cantidad de personas que utilizan la calle n
 A = [50, 80, 12, 100, 60, 1000]
@@ -56,7 +56,10 @@ I = [0.8, 0.5, 0.9, 1.0, 0.6, 0.2]
 E = [0, 0, 0, 0, 0, 0]
 
 # Personal disponible para trabajar en el dia t
-O = [6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+O = []
+for i in range(t):
+    O.append(6)
+
 
 # Si en la calle n se puede construir
 H = [[0, 1, 0], [1, 1, 1], [1, 1, 0], [0, 1, 1], [1, 1, 1], [0, 1, 1]]
@@ -102,7 +105,7 @@ m.addConstrs(
 
 # R4
 m.addConstrs(
-    (quicksum(w[n, c, t] for t in T_) == x[n, c] * U[c] for c in C_ for n in N_),
+    (quicksum(w[n, c, t] for t in T_) == x[n, c] * U[c] * L[n] for c in C_ for n in N_),
     name="Cumplir plazo",
 )
 

@@ -7,7 +7,7 @@ import random
 
 random.seed(10)
 
-t = 500
+t = 10
 n = 6
 c = 3
 
@@ -20,22 +20,22 @@ T_ = range(t)
 # Parametros
 
 # Presupuesto de la municipalidad
-P = 200
+P = 88300
 
 # Plazo maximo para terminar la construccion de las obras
 T = t
 
 # Sueldo fijo diario para trabajador externo
-S = 100
+S = 130000000
 
 # Costo de produccion de un metro de la ciclovia tipo c
-K = [2, 3, 5]  # Ciclovia tipo [0] cuesta 1$ por metro
+K = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
 
 # Costo de produccion de senalizacion de ciclovia tipo c
-G = [20, 30, 50]  # Senalizacion de ciclovia tipo [0] cuesta 10$
+G = [20, 30, 50]  # Senalizacion de ciclovia tipo [0] cuesta 20$
 
 # Costo de mantencion por metro de ciclovia tipo c
-D = [2, 3, 5]
+D = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
 
 # Tiempo de construccion de la ciclovia tipo c
 U = [1, 2, 3]
@@ -44,7 +44,7 @@ U = [1, 2, 3]
 J = [2, 3, 4]
 
 # Largo de la calle n en metros
-L = [100, 200, 300, 400, 500, 300]
+L = [1, 2, 3, 4, 5, 3]
 
 # Cantidad de personas que utilizan la calle n
 A = [50, 80, 12, 100, 60, 1000]
@@ -54,11 +54,11 @@ I = [0.8, 0.5, 0.9, 1.0, 0.6, 0.2]
 
 # Existencia de ciclovia en la calle n
 E = [0, 0, 0, 0, 0, 0]
-
+ 
 # Personal disponible para trabajar en el dia t
 O = []
 for i in range(t):
-    O.append(6)
+    O.append(7)
 
 
 # Si en la calle n se puede construir
@@ -138,11 +138,19 @@ for n_i in range(n):
         if x[n_i, c_i].x != 0:
             print(f"En la calle {n_i + 1} se construira una ciclovia tipo {c_i + 1}")
 
+print(f"Trabajores externos contratados en proyecto: {quicksum(z[t].x for t in T_ )}")
+
 
 for t_i in range(t):
-    print(f"\n\nDia {t_i + 1}:\n")
-    print(f"--Se contrataron {z[t_i].x} trabajadores extra--")
-    for n_i in range(n):
-        for c_i in range(c):
-            if w[n_i, c_i, t_i].x != 0:
-                print(f"Se esta construyendo una ciclovia en la calle {n_i + 1}")
+    trabajo_en_curso = quicksum(w[n, c, t_i] for n in N_ for c in C_)
+    if float(str(trabajo_en_curso)[-5] + "." + str(trabajo_en_curso)[-3]) > 0:
+        print(f"\n\nDia {t_i + 1}:\n")
+        if z[t_i].x != 0:
+            print(f"--Se contrataron {z[t_i].x} trabajadores extra--")
+        for n_i in range(n):
+            for c_i in range(c):
+                if w[n_i, c_i, t_i].x != 0:
+                    print(f"Se esta construyendo una ciclovia en la calle {n_i + 1}")
+
+# (O_t - W_nc1 * J_c) + Z_1 >= 0
+# (10 - 3 * 3) =1 -> 1+z_t =0 -> -1

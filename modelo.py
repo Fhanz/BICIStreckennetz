@@ -20,7 +20,7 @@ T_ = range(t)
 # Parametros
 
 # Presupuesto de la municipalidad
-P = 100000000000
+P = 200
 
 # Plazo maximo para terminar la construccion de las obras
 T = t
@@ -44,7 +44,7 @@ U = [1, 2, 3]
 J = [2, 3, 4]
 
 # Largo de la calle n en metros
-L = [100, 200, 300, 400, 500, 300]
+L = [0.1, 0.2, 0.3, 0.4, 0.5, 0.3]
 
 # Cantidad de personas que utilizan la calle n
 A = [50, 80, 12, 100, 60, 1000]
@@ -80,26 +80,49 @@ m.update()
 
 # R1
 # m.addConstrs(sum(x[i,j,h,k] for i in N_) <= 1 for j in J_ for h in D_ for k in K_)
-m.addConstrs((quicksum(x[n, c] for c in C_) <= 1 - E[n] for n in N_), name="Una ciclovia por calle")
+m.addConstrs(
+    (quicksum(x[n, c] for c in C_) <= 1 - E[n] for n in N_),
+    name="Una ciclovia por calle",
+)
 
 # R2
-m.addConstr((quicksum(z[t] * S for t in T_) + quicksum(x[n, c] * (L[n] * (D[c] + K[c]) + 2 * G[c]) for n in N_ for c in C_) <= P ), name="No superar el presupuesto",)
+m.addConstr(
+    (
+        quicksum(z[t] * S for t in T_)
+        + quicksum(x[n, c] * (L[n] * (D[c] + K[c]) + 2 * G[c]) for n in N_ for c in C_)
+        <= P
+    ),
+    name="No superar el presupuesto",
+)
 
 # R3
-m.addConstrs((x[n, c] <= H[n][c] for n in N_ for c in C_), name="compatibilidad ciclovia-calle")
+m.addConstrs(
+    (x[n, c] <= H[n][c] for n in N_ for c in C_), name="compatibilidad ciclovia-calle"
+)
 
 # R4
-m.addConstrs((quicksum(w[n, c, t] for t in T_) == x[n, c] * L[n] * U[c] for c in C_ for n in N_), name="Cumplir plazo",)
+m.addConstrs(
+    (quicksum(w[n, c, t] for t in T_) == x[n, c] * U[c] for c in C_ for n in N_),
+    name="Cumplir plazo",
+)
 
 # R5
-m.addConstrs((quicksum(w[n, c, t] * J[c] for n in N_ for c in C_) <= O[t] + z[t] for t in T_), name="Respetar personal maximo",)
+m.addConstrs(
+    (quicksum(w[n, c, t] * J[c] for n in N_ for c in C_) <= O[t] + z[t] for t in T_),
+    name="Respetar personal maximo",
+)
 
 # R6
-m.addConstrs((w[n, c, t] <= x[n, c] for n in N_ for c in C_ for t in T_), name="Activacion/desactivacion variable W",)
+m.addConstrs(
+    (w[n, c, t] <= x[n, c] for n in N_ for c in C_ for t in T_),
+    name="Activacion/desactivacion variable W",
+)
 
 
 # Funcion Objetivo
-m.setObjective(quicksum(x[n, c] * L[n] * I[n] * A[n] for n in N_ for c in C_), GRB.MAXIMIZE)
+m.setObjective(
+    quicksum(x[n, c] * L[n] * I[n] * A[n] for n in N_ for c in C_), GRB.MAXIMIZE
+)
 
 # Imprimir Valor Objetivo
 m.optimize()

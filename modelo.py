@@ -1,9 +1,8 @@
 # from calendar import c
-from pyexpat import model
-from re import T
 from gurobipy import Model, GRB, quicksum
 import random
-
+import pandas
+from datos import K_c, G_c, D_c, U_c, J_c, L_n, A_n, I_n, E_n, O_t, H_nc, p_, t_, s_, n_, c_
 
 random.seed(10)
 
@@ -13,56 +12,75 @@ c = 3
 
 # rangos
 C_ = range(c)
+#C_ = range(c_())
+
 N_ = range(n)
+#N_ =range(n_())
+
 T_ = range(t)
+#T_= range(t_())
 
 
 # Parametros
 
 # Presupuesto de la municipalidad
 P = 88300
+#P=p_()
 
 # Plazo maximo para terminar la construccion de las obras
 T = t
+#T=t_()
 
 # Sueldo fijo diario para trabajador externo
 S = 130000000
-
+#S = s_()
+m
 # Costo de produccion de un metro de la ciclovia tipo c
 K = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
+#K = K_c()
 
 # Costo de produccion de senalizacion de ciclovia tipo c
 G = [20, 30, 50]  # Senalizacion de ciclovia tipo [0] cuesta 20$
+#G = G_c()
 
 # Costo de mantencion por metro de ciclovia tipo c
 D = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
+#D = D_c()
 
 # Tiempo de construccion de la ciclovia tipo c
 U = [1, 2, 3]
+#U = U_c()
 
 # Personal requerido para construir ciclovia tipo c
 J = [2, 3, 4]
+#J = J_c()
 
 # Largo de la calle n en metros
 L = [1, 2, 3, 4, 5, 3]
+#L = L_n()
 
 # Cantidad de personas que utilizan la calle n
 A = [50, 80, 12, 100, 60, 1000]
+#A = A_n()
 
 # Indice de accidentes que sufren bicicletas en la calle n
 I = [0.8, 0.5, 0.9, 1.0, 0.6, 0.2]
+#I = I_n()
 
 # Existencia de ciclovia en la calle n
 E = [0, 0, 0, 0, 0, 0]
+#E = E_n()
  
 # Personal disponible para trabajar en el dia t
 O = []
 for i in range(t):
     O.append(7)
+#O = O_t()
 
 
 # Si en la calle n se puede construir
 H = [[0, 1, 0], [1, 1, 1], [1, 1, 0], [0, 1, 1], [1, 1, 1], [0, 1, 1]]
+#H = H_nc()
 
 
 # definmos un sub indice de [i,j,k] que son los que se meveran dentro de los indices, estos estan en orden [C_,N_,T_].

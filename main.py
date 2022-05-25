@@ -1,13 +1,10 @@
 # from calendar import c
 from gurobipy import Model, GRB, quicksum
-import random
 from datos import K_c, G_c, D_c, U_c, J_c, L_n, A_n, I_n, E_n, O_t, H_nc, p_, t_, s_, n_, c_
 import timeit
 
 start = timeit.default_timer()
 
-
-random.seed(10)
 
 t = int(t_())
 n = int(n_())
@@ -91,6 +88,7 @@ H = H_nc()
 
 
 m = Model("BICIStreckennetz")
+m.setParam("TimeLimit", 1800)
 
 
 # Variables
@@ -142,7 +140,7 @@ m.addConstrs(
     name="Activacion/desactivacion variable W",
 )
 
-m.addConstrs(z[t] <= O[t] for t in T_) # restrccion para tener personal equitativo - considerar
+m.addConstrs((z[t] <= O[t] for t in T_), name = "grupos equitativos de trabajadores")
 
 
 # Funcion Objetivo
@@ -162,48 +160,73 @@ m.optimize()
 print(f"\nEl valor objetivo es: {m.Objval}\n")
 #################################
 calles = 0
-print("Ciclovias planeadas:\n")
+log = ""
+largo = 0
+log += ("Ciclovias planeadas:\n\n")
 for n_i in range(n):
     for c_i in range(c):
         if x[n_i, c_i].x != 0:
-            print(f"En la calle {n_i + 1} se construira una ciclovia tipo {c_i + 1}")
+            log += (f"En la calle {n_i + 1} se construira una ciclovia tipo {c_i + 1}\n")
             calles += 1
-print(f"Se construyen {calles} ciclovias en total.")
+            largo += L[n_i]
 
-print(f"Trabajores externos contratados en proyecto: {quicksum(z[t].x for t in T_ )}")
+log += (f"\nSe construyen {calles} ciclovias en total.\n")
+log += (f"Se construyen {round(largo/1000, 3)} km de ciclovias en total.\n")
+log += (f"Trabajores externos contratados en proyecto: {quicksum(z[t].x for t in T_ )}")
+
+print(log)
+
 dinero_restante = P
 dias_sin_trabajar = 0
+spam = False
 
-spam = input("Quieres mostrar el itnerario diario? (s/n):\n")
+option = input("Quieres mostrar el itnerario diario? (s/n):\n")
+if option.lower() in "si":
+    spam = True
 
-if spam.lower() in "si":
-    for t_i in range(t):
-        #trabajo_en_curso = quicksum(w[n, c, t_i] for n in N_ for c in C_)
-        #if float(str(trabajo_en_curso)[-5] + "." + str(trabajo_en_curso)[-3]) > 0:
-        print(f"\n\nDia {t_i + 1}:\n")
-        flojeando = True
-        dinero_gastado = 0
-        if z[t_i].x != 0:
-            print(f"--Se contrataron {z[t_i].x} trabajadores extra--")
-            dinero_restante -= z[t_i].x*S
-            dinero_gastado +=z[t_i].x*S
-        for n_i in range(n):
-            for c_i in range(c):
-                if w[n_i, c_i, t_i].x != 0:
-                    print(f"Se esta construyendo una ciclovia en la calle {n_i + 1}")
-                    dinero_gastado += ((L[n_i] * (D[c_i] + K[c_i]) + 2 * G[c_i])/(L[n_i]*U[c_i]))
-                    dinero_restante -= ((L[n_i] * (D[c_i] + K[c_i]) + 2 * G[c_i])/(L[n_i]*U[c_i]))
-                    flojeando = False
-        if flojeando:
-            dias_sin_trabajar += 1
-        print(f"Presupuesto utilizado: {dinero_gastado}")
-        print(f"Dinero restante: {dinero_restante}")
+for t_i in range(t):
+    dia = (f"\n\n\nDia {t_i + 1}:\n")
+    if spam:
+        print(dia)
+    log += dia
+    flojeando = True
+    dinero_gastado = 0
+    if z[t_i].x != 0:
+        trabajadores = (f"Se contrataron {z[t_i].x} trabajadores extra\n")
+        if spam:
+            print(trabajadores)
+        log += trabajadores
+        dinero_restante -= z[t_i].x*S
+        dinero_gastado +=z[t_i].x*S
+    for n_i in range(n):
+        for c_i in range(c):
+            if w[n_i, c_i, t_i].x != 0:
+                construccion = (f"Se esta construyendo una ciclovia en la calle {n_i + 1}\n")
+                if spam:
+                    print(construccion)
+                log += construccion
+                dinero_gastado += ((L[n_i] * (D[c_i] + K[c_i]) + 2 * G[c_i])/(L[n_i]*U[c_i]))
+                dinero_restante -= ((L[n_i] * (D[c_i] + K[c_i]) + 2 * G[c_i])/(L[n_i]*U[c_i]))
+                flojeando = False
+    if flojeando:
+        dias_sin_trabajar += 1
+    presupuesto = (f"Presupuesto utilizado: {round(dinero_gastado)}\n")
+    if spam:
+        print(presupuesto)
+    log += presupuesto
+    if t_i == 179:
+        dinero_restante = round(dinero_restante)
+        print(f"Dinero restante: {dinero_restante}\n\n")
+    log += (f"Dinero restante: {dinero_restante}\n\n")
 
-    print(f"Hubo {dias_sin_trabajar} dias en los que no se construyeron ciclovias")
+log += (f"\nHubo {dias_sin_trabajar} dias en los que no se construyeron ciclovias")
+print(f"\nHubo {dias_sin_trabajar} dias en los que no se construyeron ciclovias")
+log += (f"--Itinerario diario--\n{log}")
 
-
-
+file = open("resultados.txt", "w")
+file.write(log)
+file.close()
 
 stop = timeit.default_timer()
-print('Time: ', stop - start)  
+print(f'Tiempo de ejecucion del modelo:  {round(stop - start, 2)} s')  
 

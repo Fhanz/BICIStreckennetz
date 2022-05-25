@@ -1,0 +1,3474 @@
+Ciclovias planeadas:
+
+En la calle 1 se construira una ciclovia tipo 1
+En la calle 2 se construira una ciclovia tipo 1
+En la calle 12 se construira una ciclovia tipo 1
+En la calle 14 se construira una ciclovia tipo 1
+En la calle 15 se construira una ciclovia tipo 1
+En la calle 19 se construira una ciclovia tipo 1
+En la calle 24 se construira una ciclovia tipo 3
+En la calle 26 se construira una ciclovia tipo 3
+En la calle 40 se construira una ciclovia tipo 1
+En la calle 48 se construira una ciclovia tipo 1
+En la calle 52 se construira una ciclovia tipo 3
+En la calle 63 se construira una ciclovia tipo 1
+En la calle 72 se construira una ciclovia tipo 3
+En la calle 87 se construira una ciclovia tipo 3
+En la calle 93 se construira una ciclovia tipo 3
+En la calle 109 se construira una ciclovia tipo 1
+En la calle 124 se construira una ciclovia tipo 1
+En la calle 128 se construira una ciclovia tipo 8
+En la calle 130 se construira una ciclovia tipo 8
+En la calle 131 se construira una ciclovia tipo 8
+En la calle 134 se construira una ciclovia tipo 8
+En la calle 140 se construira una ciclovia tipo 8
+En la calle 143 se construira una ciclovia tipo 8
+En la calle 145 se construira una ciclovia tipo 8
+En la calle 146 se construira una ciclovia tipo 8
+En la calle 147 se construira una ciclovia tipo 8
+En la calle 148 se construira una ciclovia tipo 8
+En la calle 149 se construira una ciclovia tipo 8
+En la calle 156 se construira una ciclovia tipo 1
+En la calle 158 se construira una ciclovia tipo 1
+En la calle 159 se construira una ciclovia tipo 1
+En la calle 165 se construira una ciclovia tipo 8
+En la calle 166 se construira una ciclovia tipo 8
+En la calle 174 se construira una ciclovia tipo 8
+En la calle 175 se construira una ciclovia tipo 8
+En la calle 176 se construira una ciclovia tipo 8
+En la calle 184 se construira una ciclovia tipo 3
+En la calle 200 se construira una ciclovia tipo 8
+En la calle 201 se construira una ciclovia tipo 8
+En la calle 203 se construira una ciclovia tipo 8
+En la calle 216 se construira una ciclovia tipo 1
+En la calle 220 se construira una ciclovia tipo 1
+En la calle 236 se construira una ciclovia tipo 1
+En la calle 237 se construira una ciclovia tipo 1
+En la calle 307 se construira una ciclovia tipo 3
+En la calle 308 se construira una ciclovia tipo 3
+En la calle 314 se construira una ciclovia tipo 3
+En la calle 363 se construira una ciclovia tipo 1
+En la calle 367 se construira una ciclovia tipo 1
+En la calle 379 se construira una ciclovia tipo 8
+En la calle 385 se construira una ciclovia tipo 8
+En la calle 393 se construira una ciclovia tipo 1
+En la calle 394 se construira una ciclovia tipo 1
+En la calle 406 se construira una ciclovia tipo 1
+En la calle 407 se construira una ciclovia tipo 1
+En la calle 412 se construira una ciclovia tipo 7
+En la calle 418 se construira una ciclovia tipo 1
+En la calle 419 se construira una ciclovia tipo 1
+En la calle 453 se construira una ciclovia tipo 1
+
+Se construyen 59 ciclovias en total.
+Se construyen 18.161 km de ciclovias en total.
+Trabajores externos contratados en proyecto: <gurobi.LinExpr: 0.0>
+
+
+Dia 1:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 237
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 4391077
+Dinero restante: 275671084.3232219
+
+
+
+
+Dia 2:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 2657569
+Dinero restante: 273013515.1673334
+
+
+
+
+Dia 3:
+Se esta construyendo una ciclovia en la calle 63
+Presupuesto utilizado: 884477
+Dinero restante: 272129037.8027993
+
+
+
+
+Dia 4:
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 1783491
+Dinero restante: 270345547.20513165
+
+
+
+
+Dia 5:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 1770730
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 6:
+Presupuesto utilizado: 0
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 7:
+Presupuesto utilizado: 0
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 8:
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 2649686
+Dinero restante: 265925130.67468804
+
+
+
+
+Dia 9:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 3558580
+Dinero restante: 262366551.14384377
+
+
+
+
+Dia 10:
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 947236
+Dinero restante: 261419314.71194568
+
+
+
+
+Dia 11:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 1777494
+Dinero restante: 259641820.57558057
+
+
+
+
+Dia 12:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 174
+Presupuesto utilizado: 894313
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 13:
+Presupuesto utilizado: 0
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 14:
+Presupuesto utilizado: 0
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 15:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 4415453
+Dinero restante: 254332054.23196912
+
+
+
+
+Dia 16:
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1751979
+Dinero restante: 252580075.07169598
+
+
+
+
+Dia 17:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1756928
+Dinero restante: 250823147.06574363
+
+
+
+
+Dia 18:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 143
+Presupuesto utilizado: 57540
+Dinero restante: 250765607.38320395
+
+
+
+
+Dia 19:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 914782
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 20:
+Presupuesto utilizado: 0
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 21:
+Presupuesto utilizado: 0
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 22:
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 175
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 2685029
+Dinero restante: 247165796.25242272
+
+
+
+
+Dia 23:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 394
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3940476
+Dinero restante: 243225320.0836393
+
+
+
+
+Dia 24:
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 1784039
+Dinero restante: 241441281.19795996
+
+
+
+
+Dia 25:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 4450163
+Dinero restante: 236991117.92577696
+
+
+
+
+Dia 26:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 1770014
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 27:
+Presupuesto utilizado: 0
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 28:
+Presupuesto utilizado: 0
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 29:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1776110
+Dinero restante: 233444993.64214796
+
+
+
+
+Dia 30:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 156
+Presupuesto utilizado: 1768597
+Dinero restante: 231676396.96544454
+
+
+
+
+Dia 31:
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 1778583
+Dinero restante: 229897814.3818203
+
+
+
+
+Dia 32:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 3548172
+Dinero restante: 226349642.62702578
+
+
+
+
+Dia 33:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 134
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2755983
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 34:
+Presupuesto utilizado: 0
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 35:
+Presupuesto utilizado: 0
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 36:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 145
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 982223
+Dinero restante: 222611436.27326167
+
+
+
+
+Dia 37:
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 1778183
+Dinero restante: 220833252.90510985
+
+
+
+
+Dia 38:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 1774165
+Dinero restante: 219059087.70143974
+
+
+
+
+Dia 39:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1772558
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 40:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 41:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 42:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 43:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2646415
+Dinero restante: 214640115.2657523
+
+
+
+
+Dia 44:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2223794
+Dinero restante: 212416321.06706643
+
+
+
+
+Dia 45:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2642666
+Dinero restante: 209773655.15566745
+
+
+
+
+Dia 46:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 2668233
+Dinero restante: 207105422.17023423
+
+
+
+
+Dia 47:
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 2654770
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 48:
+Presupuesto utilizado: 0
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 49:
+Presupuesto utilizado: 0
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 50:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 128
+Presupuesto utilizado: 902877
+Dinero restante: 203547775.2961216
+
+
+
+
+Dia 51:
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 1797705
+Dinero restante: 201750070.7154047
+
+
+
+
+Dia 52:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 4413284
+Dinero restante: 197336786.54962733
+
+
+
+
+Dia 53:
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 1770971
+Dinero restante: 195565815.4204154
+
+
+
+
+Dia 54:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 3539298
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 55:
+Presupuesto utilizado: 0
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 56:
+Presupuesto utilizado: 0
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 57:
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 874520
+Dinero restante: 191151997.16602576
+
+
+
+
+Dia 58:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 2647534
+Dinero restante: 188504463.24172488
+
+
+
+
+Dia 59:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2173151
+Dinero restante: 186331312.03236756
+
+
+
+
+Dia 60:
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 876191
+Dinero restante: 185455121.02251533
+
+
+
+
+Dia 61:
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 165
+Presupuesto utilizado: 1809016
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 62:
+Presupuesto utilizado: 0
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 63:
+Presupuesto utilizado: 0
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 64:
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 881802
+Dinero restante: 182764303.06955078
+
+
+
+
+Dia 65:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2643244
+Dinero restante: 180121058.76022562
+
+
+
+
+Dia 66:
+Se esta construyendo una ciclovia en la calle 12
+Presupuesto utilizado: 885020
+Dinero restante: 179236038.83675343
+
+
+
+
+Dia 67:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 3529475
+Dinero restante: 175706563.70392394
+
+
+
+
+Dia 68:
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1782338
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 69:
+Presupuesto utilizado: 0
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 70:
+Presupuesto utilizado: 0
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 71:
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 314
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3106135
+Dinero restante: 170818091.16136745
+
+
+
+
+Dia 72:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 2686540
+Dinero restante: 168131551.28664845
+
+
+
+
+Dia 73:
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 876191
+Dinero restante: 167255360.27679622
+
+
+
+
+Dia 74:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2644560
+Dinero restante: 164610800.59902477
+
+
+
+
+Dia 75:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 156
+Presupuesto utilizado: 1769139
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 76:
+Presupuesto utilizado: 0
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 77:
+Presupuesto utilizado: 0
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 78:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 159
+Presupuesto utilizado: 2648799
+Dinero restante: 160192862.65388352
+
+
+
+
+Dia 79:
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 908881
+Dinero restante: 159283981.68966657
+
+
+
+
+Dia 80:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 143
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3132301
+Dinero restante: 156151680.44994348
+
+
+
+
+Dia 81:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 937512
+Dinero restante: 155214168.90010166
+
+
+
+
+Dia 82:
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 1806338
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 83:
+Presupuesto utilizado: 0
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 84:
+Presupuesto utilizado: 0
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 85:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 393
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 4421045
+Dinero restante: 148986785.99372885
+
+
+
+
+Dia 86:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 3518939
+Dinero restante: 145467846.6678302
+
+
+
+
+Dia 87:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 2670342
+Dinero restante: 142797504.9004384
+
+
+
+
+Dia 88:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3069593
+Dinero restante: 139727911.78389558
+
+
+
+
+Dia 89:
+Se esta construyendo una ciclovia en la calle 176
+Presupuesto utilizado: 26455
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 90:
+Presupuesto utilizado: 0
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 91:
+Presupuesto utilizado: 0
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 92:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2664236
+Dinero restante: 137037220.6962411
+
+
+
+
+Dia 93:
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 12315
+Dinero restante: 137024905.42530516
+
+
+
+
+Dia 94:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2638008
+Dinero restante: 134386897.55773985
+
+
+
+
+Dia 95:
+Se esta construyendo una ciclovia en la calle 1
+Presupuesto utilizado: 885020
+Dinero restante: 133501877.63426766
+
+
+
+
+Dia 96:
+Se esta construyendo una ciclovia en la calle 24
+Presupuesto utilizado: 884708
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 97:
+Presupuesto utilizado: 0
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 98:
+Presupuesto utilizado: 0
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 99:
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4828275
+Dinero restante: 127788894.07501139
+
+
+
+
+Dia 100:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 3533769
+Dinero restante: 124255125.22082405
+
+
+
+
+Dia 101:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2656293
+Dinero restante: 121598832.45725237
+
+
+
+
+Dia 102:
+Se esta construyendo una ciclovia en la calle 72
+Presupuesto utilizado: 885823
+Dinero restante: 120713009.74789505
+
+
+
+
+Dia 103:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 4399938
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 104:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 105:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 106:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 107:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3976400
+Dinero restante: 112336671.40026255
+
+
+
+
+Dia 108:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 2666645
+Dinero restante: 109670026.22213921
+
+
+
+
+Dia 109:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 903454
+Dinero restante: 108766571.84896135
+
+
+
+
+Dia 110:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 1779402
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 111:
+Presupuesto utilizado: 0
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 112:
+Presupuesto utilizado: 0
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 113:
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 879298
+Dinero restante: 106107871.81867485
+
+
+
+
+Dia 114:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1788492
+Dinero restante: 104319379.92491531
+
+
+
+
+Dia 115:
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 899167
+Dinero restante: 103420212.83693674
+
+
+
+
+Dia 116:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 2639275
+Dinero restante: 100780937.8847559
+
+
+
+
+Dia 117:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1762479
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 118:
+Presupuesto utilizado: 0
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 119:
+Presupuesto utilizado: 0
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 120:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 1789479
+Dinero restante: 97228980.06339104
+
+
+
+
+Dia 121:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 4416516
+Dinero restante: 92812463.72960643
+
+
+
+
+Dia 122:
+Presupuesto utilizado: 0
+Dinero restante: 92812463.72960643
+
+
+
+
+Dia 123:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3965607
+Dinero restante: 88846856.25979915
+
+
+
+
+Dia 124:
+Se esta construyendo una ciclovia en la calle 134
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 950254
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 125:
+Presupuesto utilizado: 0
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 126:
+Presupuesto utilizado: 0
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 127:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 145
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 174
+Presupuesto utilizado: 1853626
+Dinero restante: 86042976.77706094
+
+
+
+
+Dia 128:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 149
+Presupuesto utilizado: 1798315
+Dinero restante: 84244661.6167589
+
+
+
+
+Dia 129:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 4418643
+Dinero restante: 79826019.0204828
+
+
+
+
+Dia 130:
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1803412
+Dinero restante: 78022607.47355731
+
+
+
+
+Dia 131:
+Se esta construyendo una ciclovia en la calle 52
+Presupuesto utilizado: 885823
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 132:
+Presupuesto utilizado: 0
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 133:
+Presupuesto utilizado: 0
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 134:
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 10989
+Dinero restante: 77125795.75321098
+
+
+
+
+Dia 135:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 3565789
+Dinero restante: 73560006.78469907
+
+
+
+
+Dia 136:
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2640863
+Dinero restante: 70919143.64034471
+
+
+
+
+Dia 137:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 1758997
+Dinero restante: 69160146.44498353
+
+
+
+
+Dia 138:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1809981
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 139:
+Presupuesto utilizado: 0
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 140:
+Presupuesto utilizado: 0
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 141:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 143
+Se esta construyendo una ciclovia en la calle 148
+Presupuesto utilizado: 71825
+Dinero restante: 67278340.00963987
+
+
+
+
+Dia 142:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 907392
+Dinero restante: 66370948.49178273
+
+
+
+
+Dia 143:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 1801213
+Dinero restante: 64569735.888838634
+
+
+
+
+Dia 144:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 2655991
+Dinero restante: 61913744.83615452
+
+
+
+
+Dia 145:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 3540789
+Dinero restante: 58372956.2713625
+
+
+
+
+Dia 146:
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 12315
+Dinero restante: 58360641.00042654
+
+
+
+
+Dia 147:
+Presupuesto utilizado: 0
+Dinero restante: 58360641.00042654
+
+
+
+
+Dia 148:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 3545954
+Dinero restante: 54814687.03355845
+
+
+
+
+Dia 149:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 1783484
+Dinero restante: 53031202.66621796
+
+
+
+
+Dia 150:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 3532475
+Dinero restante: 49498727.578134865
+
+
+
+
+Dia 151:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 24
+Presupuesto utilizado: 2654748
+Dinero restante: 46843979.56076495
+
+
+
+
+Dia 152:
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 10989
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 153:
+Presupuesto utilizado: 0
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 154:
+Presupuesto utilizado: 0
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 155:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 237
+Se esta construyendo una ciclovia en la calle 407
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4835132
+Dinero restante: 41997858.36362267
+
+
+
+
+Dia 156:
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 2647086
+Dinero restante: 39350771.96200861
+
+
+
+
+Dia 157:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 2664037
+Dinero restante: 36686734.84891759
+
+
+
+
+Dia 158:
+Se esta construyendo una ciclovia en la calle 52
+Presupuesto utilizado: 885823
+Dinero restante: 35800912.13956027
+
+
+
+
+Dia 159:
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1772814
+Dinero restante: 34028098.242335625
+
+
+
+
+Dia 160:
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 881802
+Dinero restante: 33146296.679835625
+
+
+
+
+Dia 161:
+Presupuesto utilizado: 0
+Dinero restante: 33146296.679835625
+
+
+
+
+Dia 162:
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1773135
+Dinero restante: 31373161.45212419
+
+
+
+
+Dia 163:
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 889376
+Dinero restante: 30483785.46504594
+
+
+
+
+Dia 164:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 2641639
+Dinero restante: 27842146.30683792
+
+
+
+
+Dia 165:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1788124
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 166:
+Presupuesto utilizado: 0
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 167:
+Presupuesto utilizado: 0
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 168:
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 879298
+Dinero restante: 25174724.048273783
+
+
+
+
+Dia 169:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4821723
+Dinero restante: 20353001.06874848
+
+
+
+
+Dia 170:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 1793901
+Dinero restante: 18559100.181059353
+
+
+
+
+Dia 171:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 2708803
+Dinero restante: 15850296.870154597
+
+
+
+
+Dia 172:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Presupuesto utilizado: 2662718
+Dinero restante: 13187578.748172976
+
+
+
+
+Dia 173:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 923481
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 174:
+Presupuesto utilizado: 0
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 175:
+Presupuesto utilizado: 0
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 176:
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 393
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 2668043
+Dinero restante: 9596054.494225763
+
+
+
+
+Dia 177:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 2655034
+Dinero restante: 6941020.400328042
+
+
+
+
+Dia 178:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Presupuesto utilizado: 1770040
+Dinero restante: 5170980.5533836465
+
+
+
+
+Dia 179:
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2184093
+Dinero restante: 2986887.7046325626
+
+
+
+
+Dia 180:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 175
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 379
+Presupuesto utilizado: 1917805
+Dinero restante: 1069082
+
+
+Hubo 51 dias en los que no se construyeron ciclovias--Itinerario diario--
+Ciclovias planeadas:
+
+En la calle 1 se construira una ciclovia tipo 1
+En la calle 2 se construira una ciclovia tipo 1
+En la calle 12 se construira una ciclovia tipo 1
+En la calle 14 se construira una ciclovia tipo 1
+En la calle 15 se construira una ciclovia tipo 1
+En la calle 19 se construira una ciclovia tipo 1
+En la calle 24 se construira una ciclovia tipo 3
+En la calle 26 se construira una ciclovia tipo 3
+En la calle 40 se construira una ciclovia tipo 1
+En la calle 48 se construira una ciclovia tipo 1
+En la calle 52 se construira una ciclovia tipo 3
+En la calle 63 se construira una ciclovia tipo 1
+En la calle 72 se construira una ciclovia tipo 3
+En la calle 87 se construira una ciclovia tipo 3
+En la calle 93 se construira una ciclovia tipo 3
+En la calle 109 se construira una ciclovia tipo 1
+En la calle 124 se construira una ciclovia tipo 1
+En la calle 128 se construira una ciclovia tipo 8
+En la calle 130 se construira una ciclovia tipo 8
+En la calle 131 se construira una ciclovia tipo 8
+En la calle 134 se construira una ciclovia tipo 8
+En la calle 140 se construira una ciclovia tipo 8
+En la calle 143 se construira una ciclovia tipo 8
+En la calle 145 se construira una ciclovia tipo 8
+En la calle 146 se construira una ciclovia tipo 8
+En la calle 147 se construira una ciclovia tipo 8
+En la calle 148 se construira una ciclovia tipo 8
+En la calle 149 se construira una ciclovia tipo 8
+En la calle 156 se construira una ciclovia tipo 1
+En la calle 158 se construira una ciclovia tipo 1
+En la calle 159 se construira una ciclovia tipo 1
+En la calle 165 se construira una ciclovia tipo 8
+En la calle 166 se construira una ciclovia tipo 8
+En la calle 174 se construira una ciclovia tipo 8
+En la calle 175 se construira una ciclovia tipo 8
+En la calle 176 se construira una ciclovia tipo 8
+En la calle 184 se construira una ciclovia tipo 3
+En la calle 200 se construira una ciclovia tipo 8
+En la calle 201 se construira una ciclovia tipo 8
+En la calle 203 se construira una ciclovia tipo 8
+En la calle 216 se construira una ciclovia tipo 1
+En la calle 220 se construira una ciclovia tipo 1
+En la calle 236 se construira una ciclovia tipo 1
+En la calle 237 se construira una ciclovia tipo 1
+En la calle 307 se construira una ciclovia tipo 3
+En la calle 308 se construira una ciclovia tipo 3
+En la calle 314 se construira una ciclovia tipo 3
+En la calle 363 se construira una ciclovia tipo 1
+En la calle 367 se construira una ciclovia tipo 1
+En la calle 379 se construira una ciclovia tipo 8
+En la calle 385 se construira una ciclovia tipo 8
+En la calle 393 se construira una ciclovia tipo 1
+En la calle 394 se construira una ciclovia tipo 1
+En la calle 406 se construira una ciclovia tipo 1
+En la calle 407 se construira una ciclovia tipo 1
+En la calle 412 se construira una ciclovia tipo 7
+En la calle 418 se construira una ciclovia tipo 1
+En la calle 419 se construira una ciclovia tipo 1
+En la calle 453 se construira una ciclovia tipo 1
+
+Se construyen 59 ciclovias en total.
+Se construyen 18.161 km de ciclovias en total.
+Trabajores externos contratados en proyecto: <gurobi.LinExpr: 0.0>
+
+
+Dia 1:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 237
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 4391077
+Dinero restante: 275671084.3232219
+
+
+
+
+Dia 2:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 2657569
+Dinero restante: 273013515.1673334
+
+
+
+
+Dia 3:
+Se esta construyendo una ciclovia en la calle 63
+Presupuesto utilizado: 884477
+Dinero restante: 272129037.8027993
+
+
+
+
+Dia 4:
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 1783491
+Dinero restante: 270345547.20513165
+
+
+
+
+Dia 5:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 1770730
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 6:
+Presupuesto utilizado: 0
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 7:
+Presupuesto utilizado: 0
+Dinero restante: 268574816.98378783
+
+
+
+
+Dia 8:
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 2649686
+Dinero restante: 265925130.67468804
+
+
+
+
+Dia 9:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 3558580
+Dinero restante: 262366551.14384377
+
+
+
+
+Dia 10:
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 947236
+Dinero restante: 261419314.71194568
+
+
+
+
+Dia 11:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 1777494
+Dinero restante: 259641820.57558057
+
+
+
+
+Dia 12:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 174
+Presupuesto utilizado: 894313
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 13:
+Presupuesto utilizado: 0
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 14:
+Presupuesto utilizado: 0
+Dinero restante: 258747507.54946488
+
+
+
+
+Dia 15:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 4415453
+Dinero restante: 254332054.23196912
+
+
+
+
+Dia 16:
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1751979
+Dinero restante: 252580075.07169598
+
+
+
+
+Dia 17:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1756928
+Dinero restante: 250823147.06574363
+
+
+
+
+Dia 18:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 143
+Presupuesto utilizado: 57540
+Dinero restante: 250765607.38320395
+
+
+
+
+Dia 19:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 914782
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 20:
+Presupuesto utilizado: 0
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 21:
+Presupuesto utilizado: 0
+Dinero restante: 249850825.55496985
+
+
+
+
+Dia 22:
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 175
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 2685029
+Dinero restante: 247165796.25242272
+
+
+
+
+Dia 23:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 394
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3940476
+Dinero restante: 243225320.0836393
+
+
+
+
+Dia 24:
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 1784039
+Dinero restante: 241441281.19795996
+
+
+
+
+Dia 25:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 4450163
+Dinero restante: 236991117.92577696
+
+
+
+
+Dia 26:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 1770014
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 27:
+Presupuesto utilizado: 0
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 28:
+Presupuesto utilizado: 0
+Dinero restante: 235221103.75535142
+
+
+
+
+Dia 29:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1776110
+Dinero restante: 233444993.64214796
+
+
+
+
+Dia 30:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 156
+Presupuesto utilizado: 1768597
+Dinero restante: 231676396.96544454
+
+
+
+
+Dia 31:
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 1778583
+Dinero restante: 229897814.3818203
+
+
+
+
+Dia 32:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 3548172
+Dinero restante: 226349642.62702578
+
+
+
+
+Dia 33:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 134
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2755983
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 34:
+Presupuesto utilizado: 0
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 35:
+Presupuesto utilizado: 0
+Dinero restante: 223593659.5226974
+
+
+
+
+Dia 36:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 145
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 982223
+Dinero restante: 222611436.27326167
+
+
+
+
+Dia 37:
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 1778183
+Dinero restante: 220833252.90510985
+
+
+
+
+Dia 38:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 1774165
+Dinero restante: 219059087.70143974
+
+
+
+
+Dia 39:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1772558
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 40:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 41:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 42:
+Presupuesto utilizado: 0
+Dinero restante: 217286529.7805768
+
+
+
+
+Dia 43:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2646415
+Dinero restante: 214640115.2657523
+
+
+
+
+Dia 44:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2223794
+Dinero restante: 212416321.06706643
+
+
+
+
+Dia 45:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2642666
+Dinero restante: 209773655.15566745
+
+
+
+
+Dia 46:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 2668233
+Dinero restante: 207105422.17023423
+
+
+
+
+Dia 47:
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 2654770
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 48:
+Presupuesto utilizado: 0
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 49:
+Presupuesto utilizado: 0
+Dinero restante: 204450652.36245093
+
+
+
+
+Dia 50:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 128
+Presupuesto utilizado: 902877
+Dinero restante: 203547775.2961216
+
+
+
+
+Dia 51:
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 1797705
+Dinero restante: 201750070.7154047
+
+
+
+
+Dia 52:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 4413284
+Dinero restante: 197336786.54962733
+
+
+
+
+Dia 53:
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 1770971
+Dinero restante: 195565815.4204154
+
+
+
+
+Dia 54:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 3539298
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 55:
+Presupuesto utilizado: 0
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 56:
+Presupuesto utilizado: 0
+Dinero restante: 192026516.99685282
+
+
+
+
+Dia 57:
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 874520
+Dinero restante: 191151997.16602576
+
+
+
+
+Dia 58:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 2647534
+Dinero restante: 188504463.24172488
+
+
+
+
+Dia 59:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2173151
+Dinero restante: 186331312.03236756
+
+
+
+
+Dia 60:
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 876191
+Dinero restante: 185455121.02251533
+
+
+
+
+Dia 61:
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 165
+Presupuesto utilizado: 1809016
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 62:
+Presupuesto utilizado: 0
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 63:
+Presupuesto utilizado: 0
+Dinero restante: 183646104.63205078
+
+
+
+
+Dia 64:
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 881802
+Dinero restante: 182764303.06955078
+
+
+
+
+Dia 65:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2643244
+Dinero restante: 180121058.76022562
+
+
+
+
+Dia 66:
+Se esta construyendo una ciclovia en la calle 12
+Presupuesto utilizado: 885020
+Dinero restante: 179236038.83675343
+
+
+
+
+Dia 67:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 3529475
+Dinero restante: 175706563.70392394
+
+
+
+
+Dia 68:
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1782338
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 69:
+Presupuesto utilizado: 0
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 70:
+Presupuesto utilizado: 0
+Dinero restante: 173924225.99717548
+
+
+
+
+Dia 71:
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 314
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3106135
+Dinero restante: 170818091.16136745
+
+
+
+
+Dia 72:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 2686540
+Dinero restante: 168131551.28664845
+
+
+
+
+Dia 73:
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 876191
+Dinero restante: 167255360.27679622
+
+
+
+
+Dia 74:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2644560
+Dinero restante: 164610800.59902477
+
+
+
+
+Dia 75:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 156
+Presupuesto utilizado: 1769139
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 76:
+Presupuesto utilizado: 0
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 77:
+Presupuesto utilizado: 0
+Dinero restante: 162841661.36338326
+
+
+
+
+Dia 78:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 159
+Presupuesto utilizado: 2648799
+Dinero restante: 160192862.65388352
+
+
+
+
+Dia 79:
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 908881
+Dinero restante: 159283981.68966657
+
+
+
+
+Dia 80:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 143
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3132301
+Dinero restante: 156151680.44994348
+
+
+
+
+Dia 81:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 937512
+Dinero restante: 155214168.90010166
+
+
+
+
+Dia 82:
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 1806338
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 83:
+Presupuesto utilizado: 0
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 84:
+Presupuesto utilizado: 0
+Dinero restante: 153407830.9643786
+
+
+
+
+Dia 85:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 393
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 4421045
+Dinero restante: 148986785.99372885
+
+
+
+
+Dia 86:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 3518939
+Dinero restante: 145467846.6678302
+
+
+
+
+Dia 87:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 2670342
+Dinero restante: 142797504.9004384
+
+
+
+
+Dia 88:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3069593
+Dinero restante: 139727911.78389558
+
+
+
+
+Dia 89:
+Se esta construyendo una ciclovia en la calle 176
+Presupuesto utilizado: 26455
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 90:
+Presupuesto utilizado: 0
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 91:
+Presupuesto utilizado: 0
+Dinero restante: 139701456.75744057
+
+
+
+
+Dia 92:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 203
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2664236
+Dinero restante: 137037220.6962411
+
+
+
+
+Dia 93:
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 12315
+Dinero restante: 137024905.42530516
+
+
+
+
+Dia 94:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 2638008
+Dinero restante: 134386897.55773985
+
+
+
+
+Dia 95:
+Se esta construyendo una ciclovia en la calle 1
+Presupuesto utilizado: 885020
+Dinero restante: 133501877.63426766
+
+
+
+
+Dia 96:
+Se esta construyendo una ciclovia en la calle 24
+Presupuesto utilizado: 884708
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 97:
+Presupuesto utilizado: 0
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 98:
+Presupuesto utilizado: 0
+Dinero restante: 132617169.46384214
+
+
+
+
+Dia 99:
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4828275
+Dinero restante: 127788894.07501139
+
+
+
+
+Dia 100:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 3533769
+Dinero restante: 124255125.22082405
+
+
+
+
+Dia 101:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 2656293
+Dinero restante: 121598832.45725237
+
+
+
+
+Dia 102:
+Se esta construyendo una ciclovia en la calle 72
+Presupuesto utilizado: 885823
+Dinero restante: 120713009.74789505
+
+
+
+
+Dia 103:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 4399938
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 104:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 105:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 106:
+Presupuesto utilizado: 0
+Dinero restante: 116313071.64538148
+
+
+
+
+Dia 107:
+Se esta construyendo una ciclovia en la calle 52
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3976400
+Dinero restante: 112336671.40026255
+
+
+
+
+Dia 108:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 407
+Presupuesto utilizado: 2666645
+Dinero restante: 109670026.22213921
+
+
+
+
+Dia 109:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 903454
+Dinero restante: 108766571.84896135
+
+
+
+
+Dia 110:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 1779402
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 111:
+Presupuesto utilizado: 0
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 112:
+Presupuesto utilizado: 0
+Dinero restante: 106987170.211532
+
+
+
+
+Dia 113:
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 879298
+Dinero restante: 106107871.81867485
+
+
+
+
+Dia 114:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1788492
+Dinero restante: 104319379.92491531
+
+
+
+
+Dia 115:
+Se esta construyendo una ciclovia en la calle 200
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 899167
+Dinero restante: 103420212.83693674
+
+
+
+
+Dia 116:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 2639275
+Dinero restante: 100780937.8847559
+
+
+
+
+Dia 117:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1762479
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 118:
+Presupuesto utilizado: 0
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 119:
+Presupuesto utilizado: 0
+Dinero restante: 99018458.63183764
+
+
+
+
+Dia 120:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 1789479
+Dinero restante: 97228980.06339104
+
+
+
+
+Dia 121:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 4416516
+Dinero restante: 92812463.72960643
+
+
+
+
+Dia 122:
+Presupuesto utilizado: 0
+Dinero restante: 92812463.72960643
+
+
+
+
+Dia 123:
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Se esta construyendo una ciclovia en la calle 406
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 3965607
+Dinero restante: 88846856.25979915
+
+
+
+
+Dia 124:
+Se esta construyendo una ciclovia en la calle 134
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 950254
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 125:
+Presupuesto utilizado: 0
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 126:
+Presupuesto utilizado: 0
+Dinero restante: 87896602.31634678
+
+
+
+
+Dia 127:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 145
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 174
+Presupuesto utilizado: 1853626
+Dinero restante: 86042976.77706094
+
+
+
+
+Dia 128:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 149
+Presupuesto utilizado: 1798315
+Dinero restante: 84244661.6167589
+
+
+
+
+Dia 129:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 4418643
+Dinero restante: 79826019.0204828
+
+
+
+
+Dia 130:
+Se esta construyendo una ciclovia en la calle 201
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1803412
+Dinero restante: 78022607.47355731
+
+
+
+
+Dia 131:
+Se esta construyendo una ciclovia en la calle 52
+Presupuesto utilizado: 885823
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 132:
+Presupuesto utilizado: 0
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 133:
+Presupuesto utilizado: 0
+Dinero restante: 77136784.76419999
+
+
+
+
+Dia 134:
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 10989
+Dinero restante: 77125795.75321098
+
+
+
+
+Dia 135:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 307
+Presupuesto utilizado: 3565789
+Dinero restante: 73560006.78469907
+
+
+
+
+Dia 136:
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 363
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 2640863
+Dinero restante: 70919143.64034471
+
+
+
+
+Dia 137:
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 184
+Presupuesto utilizado: 1758997
+Dinero restante: 69160146.44498353
+
+
+
+
+Dia 138:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 176
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 1809981
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 139:
+Presupuesto utilizado: 0
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 140:
+Presupuesto utilizado: 0
+Dinero restante: 67350165.40646528
+
+
+
+
+Dia 141:
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 143
+Se esta construyendo una ciclovia en la calle 148
+Presupuesto utilizado: 71825
+Dinero restante: 67278340.00963987
+
+
+
+
+Dia 142:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 166
+Presupuesto utilizado: 907392
+Dinero restante: 66370948.49178273
+
+
+
+
+Dia 143:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 220
+Presupuesto utilizado: 1801213
+Dinero restante: 64569735.888838634
+
+
+
+
+Dia 144:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 393
+Presupuesto utilizado: 2655991
+Dinero restante: 61913744.83615452
+
+
+
+
+Dia 145:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 63
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 3540789
+Dinero restante: 58372956.2713625
+
+
+
+
+Dia 146:
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 12315
+Dinero restante: 58360641.00042654
+
+
+
+
+Dia 147:
+Presupuesto utilizado: 0
+Dinero restante: 58360641.00042654
+
+
+
+
+Dia 148:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 453
+Presupuesto utilizado: 3545954
+Dinero restante: 54814687.03355845
+
+
+
+
+Dia 149:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 1783484
+Dinero restante: 53031202.66621796
+
+
+
+
+Dia 150:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 367
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 3532475
+Dinero restante: 49498727.578134865
+
+
+
+
+Dia 151:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Se esta construyendo una ciclovia en la calle 24
+Presupuesto utilizado: 2654748
+Dinero restante: 46843979.56076495
+
+
+
+
+Dia 152:
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 10989
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 153:
+Presupuesto utilizado: 0
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 154:
+Presupuesto utilizado: 0
+Dinero restante: 46832990.54977594
+
+
+
+
+Dia 155:
+Se esta construyendo una ciclovia en la calle 72
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 237
+Se esta construyendo una ciclovia en la calle 407
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4835132
+Dinero restante: 41997858.36362267
+
+
+
+
+Dia 156:
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 418
+Presupuesto utilizado: 2647086
+Dinero restante: 39350771.96200861
+
+
+
+
+Dia 157:
+Se esta construyendo una ciclovia en la calle 87
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 419
+Presupuesto utilizado: 2664037
+Dinero restante: 36686734.84891759
+
+
+
+
+Dia 158:
+Se esta construyendo una ciclovia en la calle 52
+Presupuesto utilizado: 885823
+Dinero restante: 35800912.13956027
+
+
+
+
+Dia 159:
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 394
+Presupuesto utilizado: 1772814
+Dinero restante: 34028098.242335625
+
+
+
+
+Dia 160:
+Se esta construyendo una ciclovia en la calle 158
+Presupuesto utilizado: 881802
+Dinero restante: 33146296.679835625
+
+
+
+
+Dia 161:
+Presupuesto utilizado: 0
+Dinero restante: 33146296.679835625
+
+
+
+
+Dia 162:
+Se esta construyendo una ciclovia en la calle 307
+Se esta construyendo una ciclovia en la calle 314
+Presupuesto utilizado: 1773135
+Dinero restante: 31373161.45212419
+
+
+
+
+Dia 163:
+Se esta construyendo una ciclovia en la calle 308
+Presupuesto utilizado: 889376
+Dinero restante: 30483785.46504594
+
+
+
+
+Dia 164:
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 363
+Presupuesto utilizado: 2641639
+Dinero restante: 27842146.30683792
+
+
+
+
+Dia 165:
+Se esta construyendo una ciclovia en la calle 130
+Se esta construyendo una ciclovia en la calle 148
+Se esta construyendo una ciclovia en la calle 158
+Se esta construyendo una ciclovia en la calle 216
+Presupuesto utilizado: 1788124
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 166:
+Presupuesto utilizado: 0
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 167:
+Presupuesto utilizado: 0
+Dinero restante: 26054022.441130925
+
+
+
+
+Dia 168:
+Se esta construyendo una ciclovia en la calle 237
+Presupuesto utilizado: 879298
+Dinero restante: 25174724.048273783
+
+
+
+
+Dia 169:
+Se esta construyendo una ciclovia en la calle 26
+Se esta construyendo una ciclovia en la calle 156
+Se esta construyendo una ciclovia en la calle 220
+Se esta construyendo una ciclovia en la calle 308
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 4821723
+Dinero restante: 20353001.06874848
+
+
+
+
+Dia 170:
+Se esta construyendo una ciclovia en la calle 12
+Se esta construyendo una ciclovia en la calle 93
+Se esta construyendo una ciclovia en la calle 385
+Presupuesto utilizado: 1793901
+Dinero restante: 18559100.181059353
+
+
+
+
+Dia 171:
+Se esta construyendo una ciclovia en la calle 19
+Se esta construyendo una ciclovia en la calle 124
+Se esta construyendo una ciclovia en la calle 128
+Se esta construyendo una ciclovia en la calle 146
+Se esta construyendo una ciclovia en la calle 159
+Se esta construyendo una ciclovia en la calle 200
+Presupuesto utilizado: 2708803
+Dinero restante: 15850296.870154597
+
+
+
+
+Dia 172:
+Se esta construyendo una ciclovia en la calle 48
+Se esta construyendo una ciclovia en la calle 147
+Se esta construyendo una ciclovia en la calle 184
+Se esta construyendo una ciclovia en la calle 236
+Presupuesto utilizado: 2662718
+Dinero restante: 13187578.748172976
+
+
+
+
+Dia 173:
+Se esta construyendo una ciclovia en la calle 1
+Se esta construyendo una ciclovia en la calle 149
+Se esta construyendo una ciclovia en la calle 203
+Presupuesto utilizado: 923481
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 174:
+Presupuesto utilizado: 0
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 175:
+Presupuesto utilizado: 0
+Dinero restante: 12264097.28623924
+
+
+
+
+Dia 176:
+Se esta construyendo una ciclovia en la calle 40
+Se esta construyendo una ciclovia en la calle 165
+Se esta construyendo una ciclovia en la calle 393
+Se esta construyendo una ciclovia en la calle 406
+Presupuesto utilizado: 2668043
+Dinero restante: 9596054.494225763
+
+
+
+
+Dia 177:
+Se esta construyendo una ciclovia en la calle 14
+Se esta construyendo una ciclovia en la calle 24
+Se esta construyendo una ciclovia en la calle 367
+Presupuesto utilizado: 2655034
+Dinero restante: 6941020.400328042
+
+
+
+
+Dia 178:
+Se esta construyendo una ciclovia en la calle 2
+Se esta construyendo una ciclovia en la calle 15
+Presupuesto utilizado: 1770040
+Dinero restante: 5170980.5533836465
+
+
+
+
+Dia 179:
+Se esta construyendo una ciclovia en la calle 140
+Se esta construyendo una ciclovia en la calle 216
+Se esta construyendo una ciclovia en la calle 412
+Presupuesto utilizado: 2184093
+Dinero restante: 2986887.7046325626
+
+
+
+
+Dia 180:
+Se esta construyendo una ciclovia en la calle 109
+Se esta construyendo una ciclovia en la calle 131
+Se esta construyendo una ciclovia en la calle 174
+Se esta construyendo una ciclovia en la calle 175
+Se esta construyendo una ciclovia en la calle 236
+Se esta construyendo una ciclovia en la calle 379
+Presupuesto utilizado: 1917805
+Dinero restante: 1069082
+
+
+Hubo 51 dias en los que no se construyeron ciclovias

@@ -30,12 +30,12 @@ p_cic_calle = p_cic_calle.fillna(0)
 
 
 def c_():
-    ciclovias = p_ciclovias["c"].max()
+    ciclovias = int(p_ciclovias["c"].max())
     return ciclovias
 
 
 def n_():
-    calles = p_calles["n"].max()
+    calles = int(p_calles["n"].max())
     return calles
 
 

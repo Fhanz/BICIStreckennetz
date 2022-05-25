@@ -9,19 +9,19 @@ start = timeit.default_timer()
 
 random.seed(10)
 
-t = t_()
-n = n_()
-c = c_()
+t = int(t_())
+n = int(n_())
+c = int(c_())
 
 # rangos
 #C_ = range(c)
-C_ = range(c_())
+C_ = range(int(c_()))
 
 #N_ = range(n)
-N_ =range(n_())
+N_ =range(int(n_()))
 
 #T_ = range(t)
-T_= range(t_())
+T_= range(int(t_()))
 
 
 # Parametros
@@ -172,7 +172,6 @@ print(f"Se construyen {calles} ciclovias en total.")
 
 print(f"Trabajores externos contratados en proyecto: {quicksum(z[t].x for t in T_ )}")
 dinero_restante = P
-print(f"Dinero restante: {dinero_restante}")
 dias_sin_trabajar = 0
 
 spam = input("Quieres mostrar el itnerario diario? (s/n):\n")
@@ -204,8 +203,7 @@ if spam.lower() in "si":
 
 
 
+
 stop = timeit.default_timer()
 print('Time: ', stop - start)  
 
-# (O_t - W_nc1 * J_c) + Z_1 >= 0
-# (10 - 3 * 3) =1 -> 1+z_t =0 -> -1

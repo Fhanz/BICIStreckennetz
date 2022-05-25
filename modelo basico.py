@@ -7,7 +7,7 @@ import random
 random.seed(10)
 
 t = 10
-n = 6
+n = 8
 c = 3
 
 # rangos
@@ -27,42 +27,38 @@ P = 88300
 T = t
 
 # Sueldo fijo diario para trabajador externo
-S = 15000
-
+S = 1300
 # Costo de produccion de un metro de la ciclovia tipo c
-K = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
+K = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 2000$ por unidad de largo
 
 # Costo de produccion de senalizacion de ciclovia tipo c
 G = [20, 30, 50]  # Senalizacion de ciclovia tipo [0] cuesta 20$
 
 # Costo de mantencion por metro de ciclovia tipo c
-D = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 0.002$ por km
-
+D = [2000, 3000, 5000]  # Ciclovia tipo [0] cuesta 2000$ por unidad de largo
 # Tiempo de construccion de la ciclovia tipo c
 U = [1, 2, 3]
 
 # Personal requerido para construir ciclovia tipo c
 J = [2, 3, 4]
 
-# Largo de la calle n en metros
-L = [1, 2, 3, 4, 5, 3]
+# Largo de la calle n
+L = [1, 2, 3, 4, 5, 3, 4, 6]
 
 # Cantidad de personas que utilizan la calle n
-A = [50, 80, 12, 100, 60, 1000]
+A = [50, 80, 12, 100, 60, 1000, 70, 500]
 
 # Indice de accidentes que sufren bicicletas en la calle n
-I = [0.8, 0.5, 0.9, 1.0, 0.6, 0.2]
+I = [0.8, 0.5, 0.9, 1.0, 0.6, 0.2, 0.6, 1]
 
 # Existencia de ciclovia en la calle n
-E = [0, 0, 0, 0, 0, 0]
+E = [0, 0, 0, 0, 1, 0, 0, 0]
  
 # Personal disponible para trabajar en el dia t
-O = []
-for i in range(t):
-    O.append(7)
+O = [7, 7, 7, 7, 7, 5, 5, 7, 7, 7]
 
 # Si en la calle n se puede construir
-H = [[0, 1, 0], [1, 1, 1], [1, 1, 0], [0, 1, 1], [1, 1, 1], [0, 1, 1]]
+H = [[0, 1, 0], [1, 1, 1], [1, 1, 0], [0, 1, 1], [1, 1, 1], [0, 1, 1], [0, 1, 1], [0, 1, 1]]
 
 
 # definmos un sub indice de [i,j,k] que son los que se meveran dentro de los indices, estos estan en orden [C_,N_,T_].
@@ -151,3 +147,5 @@ for t_i in range(t):
             for c_i in range(c):
                 if w[n_i, c_i, t_i].x != 0:
                     print(f"Se esta construyendo una ciclovia en la calle {n_i + 1}")
+
+
